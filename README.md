@@ -13,6 +13,8 @@ Explorer etc. - this might crash your Computer
 
 3. If you cant kill Processes run the Application as Administrator
 
+Virus Total Link: https://www.virustotal.com/gui/file-analysis/MTBjNWFjNWJiMTkwYjU4MjgxNDU2ODhiNWNjMzBmYWY6MTcxNTYyNzI1MQ==
+
 
 Made by zitrus2k
 
