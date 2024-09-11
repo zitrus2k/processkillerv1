@@ -1,7 +1,7 @@
 Hello User!
 
 This Application is still in Development, so it might be buggy.
-You can modify this code howoever you want.
+You can modify this code however you want.
 
 Made in VS2022 on C#
 
